@@ -2,13 +2,18 @@
 
 Track attendance effortlessly.
 
-Attendance+ is a modern offline-first attendance management application designed for school and college students.
+### 📥 Download APK
 
-No login.
-No signup.
-No internet required.
+➡️ **Download the latest version here:**
 
-Everything is stored locally on your device.
+[Download Attendance+ APK](https://github.com/Samyak2501/AttendancePlus/releases/latest)
+
+---
+
+Attendance+ is a modern offline-first attendance management application for students.
+
+No Login Required • No Signup Required • No Internet Required
+
 
 ---
 
