@@ -115,25 +115,25 @@ Everything is stored locally on your device.
 ## Home Dashboard
 
 <p align="center">
-  <img src="home.jpg" width="300">
+  <img src="screenshots/home.jpg" width="300">
 </p>
 
 ## Attendance Calendar
 
 <p align="center">
-  <img src="calendar.jpg" width="300">
+  <img src="screenshots/calendar.jpg" width="300">
 </p>
 
 ## Fee Tracker
 
 <p align="center">
-  <img src="fees.jpg" width="300">
+  <img src="screenshots/fees.jpg" width="300">
 </p>
 
 ## Analytics
 
 <p align="center">
-  <img src="analytics.jpg" width="300">
+  <img src="screenshots/analytics.jpg" width="300">
 </p>
 
 ---
